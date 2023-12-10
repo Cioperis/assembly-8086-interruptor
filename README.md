@@ -7,7 +7,7 @@ This is an ***Interruptor for sbb commands*** made in Assembly-8086 using *TASM*
  * Finding the address in memory where the interrupt occured;
  * Finding the opcode and operands in the memory;
 
-## Run:
+## Run using DOSBOX:
 ```
 tasm final.asm
 tlink final.obj
