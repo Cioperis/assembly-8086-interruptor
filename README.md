@@ -1,4 +1,4 @@
-# Platformer game
+# Assembly interruptor
 
 This is an ***Interruptor for sbb commands*** made in Assembly-8086 using *TASM*. It was created during Computer Architecture course during the first semester of **Software Engineering (2022)** as the final project for this course.
 
